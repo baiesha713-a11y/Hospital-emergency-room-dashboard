@@ -123,6 +123,9 @@ Healthcare analytics portfolio project
 
 Hospital_ER_Dashboard.pbix – https://github.com/baiesha713-a11y/Hospital-emergency-room-dashboard/blob/main/Hospital%20patient%20room%20dahboard.pbix
 
+drive link
+https://drive.google.com/file/d/1flxyFPI6Mqy3DAAigTy9D3iW6goNaATR/view?usp=drive_link
+
 Dataset.csv – Source dataset (https://github.com/baiesha713-a11y/Hospital-emergency-room-dashboard/blob/main/Hospital%20ER_Data.csv)
 
 README.md – Project documentation
