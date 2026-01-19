@@ -121,9 +121,9 @@ Healthcare analytics portfolio project
 
 📎 Project Files
 
-Hospital_ER_Dashboard.pbix – Power BI dashboard file
+Hospital_ER_Dashboard.pbix – "C:\Users\b aiesha\Downloads\Hospital patient room dahboard.pbix"
 
-Dataset.xlsx – Source dataset (if included)
+Dataset.csv – Source dataset ("C:\Users\b aiesha\Downloads\Hospital ER_Data.csv")
 
 README.md – Project documentation
 
